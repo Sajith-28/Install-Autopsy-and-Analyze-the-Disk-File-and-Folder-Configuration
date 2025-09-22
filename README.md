@@ -88,9 +88,6 @@ Step4: Create a New Volume
 
 • The new Disk Partition is created
 
-<img width="1919" height="1079" alt="Screenshot 2025-09-10 082236" src="https://github.com/user-attachments/assets/1c711222-5aba-48b8-bbd6-70a19d500b87" />
-
-
 ## ANALYSING FILES USING AUTOPSY:
 
 Step1: Create a Case
@@ -105,28 +102,18 @@ Step2: Add a Data Source
 
 • Select the data source and let Autopsy process it.
 
-<img width="1920" height="1080" alt="479608779-bde40829-5bf3-40bc-9486-fc1f283ec721" src="https://github.com/user-attachments/assets/9c849126-868b-47de-ba87-724d3e00d44d" />
-
 Step3: File Analysis
-• Application
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/64adc98e-4b54-48c0-bdd3-873cbdd17ae0" />
 
-
-
-• File Metadata
-
-<img width="1920" height="1080" alt="479608936-0a3bb9cd-1b63-4ce4-b4e6-c6a73b1e6761" src="https://github.com/user-attachments/assets/0a59c414-2631-49c8-b8f7-2f0384a80c4d" />
-
-
-• Click OS Account.
-
-<img width="1920" height="1080" alt="479609176-c77c21e9-6fdc-4cd7-958a-c904cb6b23dc" src="https://github.com/user-attachments/assets/f938cb05-1df9-4fc1-825a-910810fb7e19" />
-
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/69bba5df-0eb7-4657-a20a-d6f5bb3feb3f" />
 
 ## OUTPUT:
 
-• Generate Report
-<img width="1919" height="969" alt="479609728-12a44de1-688c-497a-a534-bff40147ee9d" src="https://github.com/user-attachments/assets/b492b0b0-730c-4035-97e7-1d998aa64148" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a2276345-b197-4ef2-80aa-259ad9cff624" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2e47e9df-b224-4b7a-bdfe-f55f05a1d7a8" />
+
+
 
 
 
